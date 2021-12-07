@@ -1,9 +1,9 @@
-Name: William Fernandes Dias\n
-Birth: 10/21/2002\n
-Scholarship: Bachelor of Science and Technology (prevision to end by 2026)\n
-Habilities: Basics in programming in C, Python and Java (currently specializing in python and java); Microsoft Office (basic)\n
-Objetives: Internship in backend development.\n
-Email: william.fernandes@aluno.ufabc.edu.br\n
+Name: William Fernandes Dias
+Birth: 10/21/2002
+Scholarship: Bachelor of Science and Technology (prevision to end by 2026)
+Habilities: Basics in programming in C, Python and Java (currently specializing in python and java); Microsoft Office (basic)
+Objetives: Internship in backend development.
+Email: william.fernandes@aluno.ufabc.edu.br
 
 <!---
 William-Fernandes252/William-Fernandes252 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
