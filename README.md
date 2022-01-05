@@ -6,6 +6,7 @@ Habilities:
 >Begginer experience with Flask and API usage;  
 >Advanced english;  
 >Microsoft Office (basic).  
+
 Objetives: Internship in backend development.  
 Email: william.fernandes@aluno.ufabc.edu.br  
 
