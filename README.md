@@ -1,14 +1,19 @@
-Name: William Fernandes Dias  
-Birth: 10/21/2002  
-Scholarship: Bachelor of Computer Science (prevision to end by 2025)  
-Habilities:   
->Basics in programming in C, Python, Java (currently specializing in python and java), SQL, HTML, CSS and Javascrpt;  
->Begginer experience with Flask and API usage;  
->Advanced english;  
->Microsoft Office (basic).  
-
-Objetives: Internship in backend development.  
-Email: william.fernandes@aluno.ufabc.edu.br  
+## 👋🏻 Hello world 🌎! I'm William Fernandes 😁.
+I'm Computer Science 💻 undergraduate from Brazil who ains to become a **back-end developer!**
+Also, a **book lover 📖**, a **classical guitarist 🎶** and a **gamer 🎮 in my free time**. Action RPGs are my favorite ⚔! 
+<div align="center">
+  <a href="https://github.com/William-Fernandes252">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=William-Fernandes252&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Fernandes252&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
 <!---
 William-Fernandes252/William-Fernandes252 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
