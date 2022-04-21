@@ -9,7 +9,7 @@ Also, a **book lover 📖**, a **classical guitarist 🎶** and a **gamer 🎮**
 </div>
 
 ## Languages and Tools
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
