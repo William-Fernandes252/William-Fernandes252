@@ -1,7 +1,7 @@
 ## 👋🏻 Hello world 🌎! I'm William Fernandes 😁.
 
 I'm Computer Science 💻 undergraduate from Brazil who ains to become a **back-end developer!**
-Also, a **book lover 📖**, a **classical guitarist 🎶** and a **gamer 🎮** in my free time. Action RPGs are my favorite ⚔!
+Also, a **book lover 📖**, a **classical guitarist 🎶** and a **gamer 🎮** in my free time. MMO RPGs are my favorite ⚔!
 <div align="center">
   <a href="https://github.com/William-Fernandes252">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=William-Fernandes252&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
