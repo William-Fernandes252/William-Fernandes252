@@ -1,6 +1,6 @@
 ## 👋🏻 Hello world 🌎! I'm William Fernandes 😁.
 
-I'm Computer Science 💻 undergraduate from Brazil who ains to become a **back-end developer!**
+I'm Computer Science 💻 undergraduate from Brazil and a **Full Stack Web Developer!**
 Also, a **book lover 📖**, a **classical guitarist 🎶** and a **gamer 🎮** in my free time. MMO RPGs are my favorite ⚔!
 <div align="center">
   <a href="https://github.com/William-Fernandes252">
