@@ -8,7 +8,7 @@
 </div>
 
 
-## About me
+## About
 
 I'm Computer Science undergraduate from Brazil and a **Full Stack Web Developer**. As a (to be) software engineer, I'm always looking forward to build and contribute to projects with high demand and impact.
 
