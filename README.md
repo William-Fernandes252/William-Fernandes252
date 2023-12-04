@@ -1,17 +1,4 @@
-## 👋🏻 Hello world 🌎! I'm William Fernandes 😁.
-
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/william-fernandes-dias-b6a246217/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/williamgreyjoy/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
-
-
-I'm Computer Science 💻 undergraduate from Brazil and a **Full Stack Web Developer**. As a (to be) software engineer, I'm always looking forward to build and contribute to projects with high demand and impact.
+# William Fernandes
 
 <div align="center">
   <a href="https://github.com/William-Fernandes252">
@@ -21,55 +8,25 @@ I'm Computer Science 💻 undergraduate from Brazil and a **Full Stack Web Devel
 </div>
 
 
-## Languages
+## About me
 
-<p align="center">
+I'm Computer Science undergraduate from Brazil and a **Full Stack Web Developer**. As a (to be) software engineer, I'm always looking forward to build and contribute to projects with high demand and impact.
+
+
+## Skills
+
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,php,nodejs" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=python,ts,php,nodejs,html,css,react,vuejs,materialui,bootstrap,django,nestjs,symfony,postgres,mysql,redis,firebase,docker,nginx,grafana,bash" alt="Skills" />
   </a>
 </p>
 
 
-## Frontend
+## Contact me
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,vuejs,materialui,bootstrap" alt="Frontend" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white 'My LinkedIn Profile')](https://www.linkedin.com/in/william-fernandes-dias-b6a246217/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white 'My email')](mailto:william.winchester1967@gmail.com)
 
-
-## Backend
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,nestjs,symfony" alt="Frameworks" />
-  </a>
-</p>
-
-
-## Databases
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" alt="Databases" />
-  </a>
-</p>
-
-
-## DevOps
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,docker,nginx,grafana,bash" alt="Databases" />
-  </a>
-</p>
-
-
-### Contact me
-
-- Email: william.winchester1967@gmail.com
-- Phone: +55 (11) 96485-8088
 
 <!---
 William-Fernandes252/William-Fernandes252 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
