@@ -1,4 +1,6 @@
-Hello there 👋, I'm William, a Computer Science undergraduate from Brazil and a Full Stack Web Developer. As a (to be) software engineer, I'm always looking forward to build and contribute to projects with high demand and impact.
+### 👋 Hello! I'm William
+#### 🔧 Full Stack Developer | 🚀 Passionate about building scalable web applications | 🌐 Open Source Enthusiast
+
 
 <div align="center">
   <a href="https://github.com/William-Fernandes252">
@@ -7,13 +9,10 @@ Hello there 👋, I'm William, a Computer Science undergraduate from Brazil and 
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=William-Fernandes252&theme=dark&card_width=450" alt="GitHub Streak" /></a>
 </div>
 
----
 
+## About me
 
-## About
-
-I have experience building and maintaining REST APIs based on Django and Node.js, and creating user interfaces with React, Vue.js and Typescript. I am currently focusing my efforts on expanding my technical knowledge in the tools and practices most used in the web development market, such as test automation, CI/CD, observability and cloud-based infrastructure.
-
+I have experience on building and maintaining REST APIs based on Django and Node.js, and creating user interfaces with React and Typescript. I am currently focusing my efforts on expanding my technical knowledge in the tools and practices most used in the web development market, such as test automation, CI/CD, observability and cloud-based infrastructure.
 
 ## Skills
 
