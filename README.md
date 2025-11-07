@@ -1,5 +1,5 @@
 ### 👋 Hello! I'm William
-#### 🔧 Full Stack Developer | 🚀 Passionate about building scalable web applications | 🌐 Open Source Enthusiast
+#### 🔧 AI/Python Engineer | 🚀 Passionate about building scalable web applications | 🌐 Open Source Enthusiast
 
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 ## About me
 
-I have experience on building and maintaining REST APIs based on Django and Node.js, and creating user interfaces with React and Typescript. I am currently focusing my efforts on expanding my technical knowledge in the tools and practices most used in the web development market, such as test automation, CI/CD, observability and cloud-based infrastructure.
+I am a Backend Developer experienced on building and maintaining RESTful APIs with Django and Node.js, and creating user interfaces with React and Typescript. I am currently focusing my efforts on expanding my technical knowledge in the tools and practices most used in the web development market, such as test automation, CI/CD, observability and cloud-based infrastructure.
 
 ## Skills
 
