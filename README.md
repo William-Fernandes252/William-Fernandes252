@@ -4,8 +4,6 @@
 
 <div align="center">
   <a href="https://github.com/William-Fernandes252">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=William-Fernandes252&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Fernandes252&layout=compact&langs_count=7&theme=dark" />
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=William-Fernandes252&theme=dark&card_width=450" alt="GitHub Streak" /></a>
 </div>
 
