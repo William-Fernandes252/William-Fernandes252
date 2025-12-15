@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/William-Fernandes252">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=William-Fernandes252&theme=dark&card_width=450" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-rouge-xi.vercel.app?user=William-Fernandes252&theme=python-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 
 
@@ -16,7 +16,7 @@ I am a Backend Developer experienced on building and maintaining RESTful APIs wi
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,php,nodejs,html,css,react,vuejs,materialui,bootstrap,django,nestjs,symfony,postgres,mysql,redis,firebase,docker,nginx,grafana,bash" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=python,nodejs,go,html,css,js,ts,react,vuejs,django,postgres,mysql,redis,firebase,docker,nginx,grafana,bash" alt="Skills" />
   </a>
 </p>
 
