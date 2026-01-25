@@ -2,13 +2,10 @@
 #### 🔧 AI/Python Engineer | 🚀 Passionate about building scalable web applications | 🌐 Open Source Enthusiast
 
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/William-Fernandes252">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-rouge-xi.vercel.app?user=William-Fernandes252&theme=python-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
-</div>
-
-
-## About me
+</div> -->
 
 I am a Backend Developer experienced on building and maintaining RESTful APIs with Django and Node.js, and creating user interfaces with React and Typescript. I am currently focusing my efforts on expanding my technical knowledge in the tools and practices most used in the web development market, such as test automation, CI/CD, observability and cloud-based infrastructure.
 
